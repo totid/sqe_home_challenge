@@ -59,4 +59,4 @@
 ||Check that if the user taps on a category, a corresponding new expense or new income page is opened with that category already selected           | High      |   $ |
 ||Check that if the user long taps on an element, it can be deleted           | High      |   $ |
 |Transfer||||
-||Check that new transfer opens a new transfer window           | High      |   $ |
+||Check that new transfer opens a new transfer window           | High      |    |

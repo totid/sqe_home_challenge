@@ -54,4 +54,8 @@
 ||Check that if the user clicks on a category, it appears the detailed list of expenses for that category              | High      |   $ |
 ||Check that if the user taps on a particular movement, you can edit it changing category, amount, date, notes              | High      |   $ |
 ||Check that as soon as the user inputs the amount, changes are saved and it appears in the header "Changes Saved"              | High      |   $ |
-||Check that if the user taps on a particular movement, you can edit it changing category, amount, date, notes              | High      |   $ |
+||Check that if tapped back button, it appears the previous screen           | High      |   $ |
+||Check that a record can be deleted and the change is reflected           | High      |   $ |
+||Check that if the user taps on a category, a corresponding new expense or new income page is opened with that category already selected           | High      |   $ |
+||Check that if the user long taps on an element, it can be deleted           | High      |   $ |
+|Transfer||||

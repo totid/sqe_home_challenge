@@ -59,6 +59,6 @@
 |        | Update a category with an invalid id and valid field data          | 400 | High       |
 |        | Update a category with a valid id and invalid field data           | 400 | High       |
 |Utilities||||
-|        | Get current version of the API Playground being run               | 200 | High   	 |
-|        | Get positive healthcheck status                                   | 200 | High   	 |
-|        | Get negative healthcheck status                                   | 200 | High   	 |
+|        | Get current version of the API Playground being run                | 200 | High   	 |
+|        | Get positive healthcheck status                                    | 200 | High   	 |
+|        | Get negative healthcheck status                                    | 500 | High   	 |

@@ -60,3 +60,25 @@
 ||Check that if the user long taps on an element, it can be deleted           | High      |   $ |
 |Transfer||||
 ||Check that new transfer opens a new transfer window           | High      |    |
+||Check that current date appears on top              | High      |   $ |
+||Check that default direction for accounts is from cash to payment card              | High      |   $ |
+||Check that if you tap on amount, a number keyboard overlay is opened              | High      |   $ |
+||Check that if you click add transfer with 0 amount, amount field will be highlighted in red              | High      |   $ |
+||Check that the user can input 999999999 into the amount field              | High      |   $ |
+||Check that payment types can be changed              | High      |   $ |
+|Right side menu||||
+||Check that the icons Categories, Accounts, Currency, Setting are displayed           | High      |    |
+||Check that tapping Categories, open categories for Expenses and Incomes           | High      |    |
+||Check that tapping + button, brings the user to Monefy Pro Screen           | High      |    |
+||Check that tapping Accounts, open existing accounts           | High      |    |
+||Check that tapping Currencies button, brings the user to Monefy Pro Screen           | High      |    |
+||Check that tapping Settings, open app Settings           | High      |    |
+||Check that exists Unlock Monefy Pro and when clicked brings the user to the process of purchasing           | High      |    |
+||Check that exists tick box for Budget mode, carry over and Dark theme and that they can be selected           | High      |    |
+||Check that user can change the options for Language, Currency, First day of the week/month, passcode protecion           | High      |    |
+|Left side menu||||
+||Check that All accounts dropdown box appears as default selection on the top           | High      |    |
+||Check that are present day, week, month, year, all and choose date buttons           | High      |    |
+||Check that are present day, week, month, year, all and choose date buttons           | High      |    |
+||Check that the user can change the type account and that the change is reflected into the main pie chart           | High      |    |
+||Check that the user can change between the different periods day, week, month, year, all and choose date, and that the corresponding date appears at the top of the main pie chart           | High      |    |
